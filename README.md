@@ -8,6 +8,6 @@ Welcome to my Github Profile, I am a passionate Devops engineer with 6.5 years o
 - 🌱 I’m  learning Cloud technologies, Devops and Machine Learning
 - 👯 I’m looking to collaborate on exciting open source projects
 - 💬 Ask me about Devops and Linux
-- 📫 Reach me out via: (viswajay991@gmail.com
+- 📫 Reach me out via: (viswajay991@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing cricket and travel.
