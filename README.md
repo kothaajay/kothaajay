@@ -13,5 +13,6 @@ Welcome to my Github Profile, I am a passionate Devops engineer with 6.5 years o
 - ⚡ Fun fact: I love playing cricket and travel.
 
 
-💬 Let's Connect
+💬 Let's Connect:
+
 Linkedin: https://www.linkedin.com/in/iamajaykotha/
